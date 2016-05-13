@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mth.demotest.MainActivity">
+
+    <Button
+        android:id="@+id/id_click"
+        android:layout_width="@dimen/x240"
+        android:layout_height="@dimen/x160"
+        android:text="Hello BABY!11111"
+        android:textColor="@android:color/holo_blue_light" />
+
+    <Button
+        android:id="@+id/id_click_"
+        android:layout_width="@dimen/mth"
+        android:layout_height="@dimen/x160"
+        android:text="Hello BABY!222222"
+        android:textColor="@android:color/holo_blue_light" />
+
+
+</LinearLayout>
