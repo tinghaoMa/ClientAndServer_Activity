@@ -1,1 +1,1 @@
-include  ':activity_client', ':activity_server'
+include ':activity_client', ':activity_server'
